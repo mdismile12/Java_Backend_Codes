@@ -1,1 +1,3 @@
-
+First Run Server.java
+then run Client.java
+then perfrom operations
